@@ -1,15 +1,15 @@
 ### Hi there, I'm Richard -  👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniel-richardson-2001.github.io/danielrichardson.github.io/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+## I'm a Student, Son, Developer, and Teck-Lover!!
+
+- 🔭 I just wrote my first code !!            
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to gain oppurtunity to learn with other content creators
+- 🥅 2022 Goals: Start a new Coding LyF
+- ⚡ Fun fact: I love to draw and play guitar / drums / piano
 
 ### Connect with me:
 
