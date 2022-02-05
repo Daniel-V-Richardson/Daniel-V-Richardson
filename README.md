@@ -1,4 +1,4 @@
-### Hi there, I'm Richard -  👋 
+### Hi there, I'm Richard - <img src= "https://github.com/Daniel-Richard/Daniel-Richard/blob/main/gifs/Hi.gif" width="30px"> 
 
 [![Website](https://img.shields.io/website?label=PROFILE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniel-richardson-2001.github.io/danielrichardson.github.io/)
 
