@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard -  👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniel-richardson-2001.github.io/danielrichardson.github.io/)
+[![Website](https://img.shields.io/website?label=PROFILE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniel-richardson-2001.github.io/danielrichardson.github.io/)
 
 
 ## I'm a Student, Son, Developer, and Teck-Lover!!
