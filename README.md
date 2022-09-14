@@ -42,8 +42,9 @@
 ➡️ [more youtube videos...](https://www.youtube.com/channel/UCmoojVN69JSufJ6h8MAUFNg/videos)
 
 ---
+## Spotify 
 
-[![Spotify](https://https://novatorem-lime-chi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[<img src="https://novatorem-lime-chi.vercel.app/api/spotify-playing" alt="Richard's Spotify" width="350"/>](https://open.spotify.com/user/q1v4u8jp1t6abjmsnahm43029)
 
 <br />
 
