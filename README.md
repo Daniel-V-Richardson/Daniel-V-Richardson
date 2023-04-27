@@ -8,7 +8,7 @@
 - 🔭 I just wrote my first code !!            
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to gain oppurtunity to learn with other coders
-- 🥅 2022 Goals: Start a new Coding LyF
+- 🥅 2023 Goals: Start a new Coding LyF
 - ⚡ Fun fact: I love to draw and play guitar / drums / piano
 
 ### Connect with me:
